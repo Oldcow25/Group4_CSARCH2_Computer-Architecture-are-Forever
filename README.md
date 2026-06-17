@@ -25,7 +25,6 @@ This exhibit explores how Filipino engineers, educators, and innovators contribu
 | MDX | Exhibit content |
 | React + TypeScript (.tsx) | Interactive components |
 | Tailwind CSS | Styling |
-| Framer Motion | Animations |
 
 ## ✨ Interactive Element
 
