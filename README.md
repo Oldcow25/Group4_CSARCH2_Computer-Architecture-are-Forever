@@ -54,7 +54,7 @@ A **Scrollable & Clickable Timeline** built in React + TypeScript featuring:
 
 ### Status
 - Website is live and running with the Astro + React + Tailwind layout described in the proposal.
-- Deployment link: **[ADD YOUR LIVE URL HERE ONCE DEPLOYED]**
+- Deployment link: <a href="https://oldcow25.github.io/Group4_CSARCH2_Computer-Architecture-are-Forever/">https://oldcow25.github.io/Group4_CSARCH2_Computer-Architecture-are-Forever/</a>
 - Interactive timeline component implemented with era filtering and expand/collapse detail cards, covering all five chapters from the proposal plus the introduction.
 
 ### What We Learned
