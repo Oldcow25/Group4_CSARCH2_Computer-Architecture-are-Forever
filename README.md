@@ -77,3 +77,9 @@ A **Scrollable & Clickable Timeline** built in React + TypeScript featuring:
 - Convert the timeline component from JavaScript to TypeScript, as originally planned. JavaScript was used temporarily while some members were still getting familiar with TypeScript.
 - Expand institution coverage in Chapter 2 beyond UP Diliman if time allows (e.g., Ateneo, DLSU, PUP).
 - Consider upgrading a few modern-entrepreneur references from blog/listicle sources to more authoritative ones (company About pages, mainstream business outlets) — see the sourcing note in `REFERENCES.md`.
+
+### Final Documentation
+- We managed to update the style (fonts, main background) of the page as originally planned, but unfortunately we didn't manage to implement the transitions for the timeline as intended due to time constraints.
+- Continuing with our initial realization regarding the search for sources, we still found it difficult to look for more information beyond what was readily available on the Internet; we eventually chose to rely on what was already used during the mid-milestone submission.
+- We also chose to go forward with the current layout over the planned horizontal layout, realizing that this kind of layout also allows for accessibility on mobile while not sacrificing the visual aesthetic of the timeline.
+- The group fully acknowledges the contributions of Mark Daming, who helped build the page and turn it into how it looks now, but had to drop the course due to personal reasons. His expertise allowed us to give an output that is both visually aesthetic and informative.
